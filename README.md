@@ -9,8 +9,6 @@ This repository contains Python and implementations of orbital mechanics and ast
 - [Course Code Modules](#course-code-modules)
 - [Python Code Modules](#Python-code-modules)
 - [Usage](#usage)
-- [Installation](#installation)
-- [Future Updates](#future-updates)
 
 ---
 
@@ -100,7 +98,7 @@ Space-Sciences-and-Astrodynamics/
   - Consistent angle representation is required for astrodynamics, robotics, and other applications.
   - Improved readability and usability of angular calculations are beneficial in workflows.
 
-![atan2d_0_360_plot.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/atan2d_0_360_plot.png)
+![atan2d_0_360_plot.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/atan2d_0_360_plot.png)
 
 ---
 
@@ -111,7 +109,7 @@ Space-Sciences-and-Astrodynamics/
   - Pressure (Pa) and density (kg/m³) for accurate environmental modeling.
   - Speed of sound (m/s) for applications in aerodynamics and astrodynamics.
 
-![atmosisa_plot.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/atmosisa_plot.png)
+![atmosisa_plot.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/atmosisa_plot.png)
 
 ---
 
@@ -122,7 +120,7 @@ Space-Sciences-and-Astrodynamics/
   - Support for high-altitude atmospheric modeling for aerospace and astrodynamics applications.
   - Smooth transitions in density across altitude intervals for improved numerical stability.
 
-![atmosphere_plot.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/atmosphere_plot.png)
+![atmosphere_plot.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/atmosphere_plot.png)
 
 ---
 
@@ -133,7 +131,7 @@ Space-Sciences-and-Astrodynamics/
   - High precision is required, with results computed to within a user-defined tolerance.
   - The method's simplicity and robustness are ideal for solving equations in astrodynamics and related fields.
 
-![bisect_plot.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/bisect_plot.png)
+![bisect_plot.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/bisect_plot.png)
 
 ---
 
@@ -145,7 +143,7 @@ Space-Sciences-and-Astrodynamics/
   - Enabling comprehensive analysis and simulation in astrodynamics.
 
 
-![coe_from_sv_plot.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/coe_from_sv_plot.png)
+![coe_from_sv_plot.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/coe_from_sv_plot.png)
 
 ---
 
@@ -157,7 +155,7 @@ Space-Sciences-and-Astrodynamics/
   - Accurate modeling of satellite re-entry or decay due to drag is required.
 
 
-![cowell_plot.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/cowell_plot.png)
+![cowell_plot.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/cowell_plot.png)
 
 ---
 
@@ -168,7 +166,7 @@ Space-Sciences-and-Astrodynamics/
   - Enabling efficient rotation transformations in simulations and real-time systems.
   - Maintaining numerical stability and accuracy in orientation calculations.
 
-![dcm_from_q_plot.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/dcm_from_q_plot.png)
+![dcm_from_q_plot.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/dcm_from_q_plot.png)
 
 ---
 
@@ -180,7 +178,7 @@ Space-Sciences-and-Astrodynamics/
   - Supporting systems requiring Euler angle decomposition from matrix representations.
 
 
-![dcm_to_euler_plot.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/dcm_to_euler_plot.png)
+![dcm_to_euler_plot.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/dcm_to_euler_plot.png)
 
 ---
 
@@ -191,7 +189,7 @@ Space-Sciences-and-Astrodynamics/
   - Applications in aerospace, robotics, and navigation systems that require angle-based orientation.
   - Analyzing orientation data in a more comprehensible format.
 
-![dcm_to_ypr_plot.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/dcm_to_ypr_plot.png)
+![dcm_to_ypr_plot.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/dcm_to_ypr_plot.png)
 
 ---
 
@@ -203,11 +201,9 @@ Space-Sciences-and-Astrodynamics/
   - Computational efficiency is important for handling small perturbations in satellite motion.
 
 
-![encke_plot1.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/encke_plot1.png)
+![encke_plot1.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/encke_plot1.png)
 
-![encke_plot2.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/encke_plot2.png)
-
-![encke_plot3.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/encke_plot3.png)
+![encke_plot2.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/encke_plot2.png)
 
 ---
 
@@ -218,7 +214,7 @@ Space-Sciences-and-Astrodynamics/
   - Incorporate the universal anomaly $x$ and other orbital parameters for precise calculations.
   - Support astrodynamics workflows requiring accurate orbital state predictions.
 
-![f_and_g_plot.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/f_and_g_plot.png)
+![f_and_g_plot.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/f_and_g_plot.png)
 
 ---
 
@@ -230,7 +226,7 @@ Space-Sciences-and-Astrodynamics/
   - Supporting analytical orbital mechanics workflows.
 
 
-![f_and_g_ta_plot.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/f_and_g_ta_plot.png)
+![f_and_g_ta_plot.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/f_and_g_ta_plot.png)
 
 ---
 
@@ -241,7 +237,7 @@ Space-Sciences-and-Astrodynamics/
   - Supporting precise orbit propagation and trajectory predictions.
   - Analyzing dynamic changes in orbital elements using universal anomaly and radial positions.
 
-![fDot_and_gDot_plot.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/fDot_and_gDot_plot.png)
+![fDot_and_gDot_plot.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/fDot_and_gDot_plot.png)
 
 ---
 
@@ -252,7 +248,7 @@ Space-Sciences-and-Astrodynamics/
   - Supporting orbital mechanics calculations involving angular momentum and radial velocity.
   - Providing efficient computations for trajectory propagation in astrodynamics.
 
-![fDot_and_gDot_ta_plot.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/fDot_and_gDot_ta_plot.png)
+![fDot_and_gDot_ta_plot.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/fDot_and_gDot_ta_plot.png)
 
 ---
 
@@ -263,7 +259,7 @@ Space-Sciences-and-Astrodynamics/
   - Iterative refinement to improve the accuracy of the calculated state vector.
   - Support for real-world applications in satellite tracking and orbital mechanics.
 
-![gauss_plot.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/gauss_plot.png)
+![gauss_plot.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/gauss_plot.png)
 
 ---
 
@@ -274,7 +270,7 @@ Space-Sciences-and-Astrodynamics/
   - Determining orbital elements such as angular momentum, eccentricity, and inclination.
   - Supporting applications in satellite tracking and celestial mechanics.
 
-![gibbs_plot.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/gibbs_plot.png)
+![gibbs_plot.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/gibbs_plot.png)
 
 ---
 
@@ -285,9 +281,7 @@ Space-Sciences-and-Astrodynamics/
   - Calculating dynamic parameters such as altitude, velocity, and flight path angle.
   - Analyzing velocity losses due to drag and gravity.
 
-![gravity_turn_plot1.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/gravity_turn_plot1.png)
-
-![gravity_turn_plot2.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/gravity_turn_plot2.png)
+![gravity_turn_plot1.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/gravity_turn_plot1.png)
 
 ---
 
@@ -298,7 +292,7 @@ Space-Sciences-and-Astrodynamics/
   - Simulating orbital evolution, including nodal regression and perigee precession due to $J_2$ perturbations.
   - Analyzing the satellite's coverage and ground visibility.
 
-![ground_track_plot.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/ground_track_plot.png)
+![ground_track_plot.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/ground_track_plot.png)
 
 ---
 
@@ -309,7 +303,7 @@ Space-Sciences-and-Astrodynamics/
   - Handling systems with stringent error tolerance and iterative correction.
   - Supporting user-defined differential equations through callable functions.
 
-![heun_plot.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/heun_plot.png)
+![heun_plot.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/heun_plot.png)
 
 ---
 
@@ -320,7 +314,7 @@ Space-Sciences-and-Astrodynamics/
   - Computing the apogee and other orbital elements of the post-burn orbit.
   - Evaluating thrust, mass loss, and other dynamic factors affecting spacecraft motion.
 
-![integrate_thrust_plot.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/integrate_thrust_plot.png)
+![integrate_thrust_plot.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/integrate_thrust_plot.png)
 
 ---
 
@@ -331,7 +325,7 @@ Space-Sciences-and-Astrodynamics/
   - Computing the spacecraft's hyperbolic excess velocities at both planets.
   - Supporting mission design and analysis with key orbital elements and time-of-flight calculations.
 
-![interplanetary_plot.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/interplanetary_plot.png)
+![interplanetary_plot.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/interplanetary_plot.png)
 
 ---
 
@@ -342,7 +336,7 @@ Space-Sciences-and-Astrodynamics/
   - Supporting time-dependent computations in astrodynamics and celestial mechanics.
   - Ensuring compatibility with standard equations for Julian date arithmetic.
 
-![J0_plot.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/J0_plot.png)
+![J0_plot.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/J0_plot.png)
 
 ---
 
@@ -353,11 +347,11 @@ Space-Sciences-and-Astrodynamics/
   - Simulating changes in right ascension, inclination, eccentricity, and argument of perigee.
   - Supporting mission planning and satellite lifetime analysis with precise perturbation modeling.
 
-![J2_perturbation_plot_1.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/J2_perturbation_plot_1.png)
+![J2_perturbation_plot_1.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/J2_perturbation_plot_1.png)
 
-![J2_perturbation_plot_2.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/J2_perturbation_plot_2.png)
+![J2_perturbation_plot_2.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/J2_perturbation_plot_2.png)
 
-![J2_perturbation_plot_3.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/J2_perturbation_plot_3.png)
+![J2_perturbation_plot_3.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/J2_perturbation_plot_3.png)
 
 ---
 
@@ -368,7 +362,7 @@ Space-Sciences-and-Astrodynamics/
   - Supporting astrodynamics calculations where precise orbital element computation is required.
   - Converting mean anomaly ($M$) to eccentric anomaly ($E$) for orbital mechanics analyses.
 
-![kepler_E_plot.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/kepler_E_plot.png)
+![kepler_E_plot.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/kepler_E_plot.png)
 
 ---
 
@@ -379,7 +373,7 @@ Space-Sciences-and-Astrodynamics/
   - Supporting interplanetary mission design involving escape or flyby trajectories.
   - Converting hyperbolic mean anomaly ($M$) to hyperbolic eccentric anomaly ($F$).
 
-![kepler_H_plot.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/kepler_H_plot.png)
+![kepler_H_plot.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/kepler_H_plot.png)
 
 ---
 
@@ -390,7 +384,7 @@ Space-Sciences-and-Astrodynamics/
   - Calculating position and velocity vectors over time for celestial bodies or spacecraft.
   - Enabling generalized solutions for orbital mechanics problems independent of orbit type.
 
-![kepler_U_plot.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/kepler_U_plot.png)
+![kepler_U_plot.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/kepler_U_plot.png)
 
 ---
 
@@ -401,31 +395,9 @@ Space-Sciences-and-Astrodynamics/
   - Computing initial and final velocities for given orbital configurations.
   - Supporting mission design and analysis in astrodynamics.
 
-![lambert_plot.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/lambert_plot.png)
+![lambert_plot.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/lambert_plot.png)
 
----
-
-#### `los.py`
-
-- The `los` function determines whether a satellite is in Earth's shadow based on the satellite's and Sun's Earth-Centered Inertial (ECI) position vectors. This function is critical for:
-  - Assessing solar exposure for satellites in orbit.
-  - Determining periods of Earth shadow for satellite operations.
-  - Supporting power and thermal analysis for spacecraft.
-
-![los_plot.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/los_plot.png)
-
----
-
-#### `LST.py`
-
-- The `LST` function calculates the Local Sidereal Time (LST) at a specified location on Earth. This is essential for:
-  - Determining the orientation of the Earth relative to celestial objects.
-  - Supporting astronomical observations and satellite tracking.
-  - Converting time and geographic location into a sidereal time format for astrodynamics computations.
-
-![LST_plot.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/LST_plot.png)
-
----
+----
 
 #### `lunar_perturbation_test.py`
 
@@ -434,9 +406,9 @@ Space-Sciences-and-Astrodynamics/
   - Simulating orbital element variations such as inclination, right ascension, and argument of perigee.
   - Supporting mission planning and stability assessments for Earth-orbiting satellites.
 
-![lunar_perturbation_plot1.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/lunar_perturbation_plot1.png)
+![lunar_perturbation_plot1.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/lunar_perturbation_plot1.png)
 
-![lunar_perturbation_plot2.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/lunar_perturbation_plot2.png)
+![lunar_perturbation_plot2.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/lunar_perturbation_plot2.png)
 
 ---
 
@@ -447,7 +419,7 @@ Space-Sciences-and-Astrodynamics/
   - Supporting lunar mission planning and astrodynamics calculations.
   - Providing precise Moon position data for time-sensitive orbital computations.
 
-![lunar_position_plot.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/lunar_position_plot.png)
+![lunar_position_plot.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/lunar_position_plot.png)
 
 ---
 
@@ -459,11 +431,11 @@ Space-Sciences-and-Astrodynamics/
   - Calculation of key points, such as perilune and lunar arrival conditions, for trajectory analysis.
   - Support for mission planning, trajectory optimization, and astrodynamics research.
 
-![lunar_trajectory_plot1.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/lunar_trajectory_plot1.png)
+![lunar_trajectory_plot1.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/lunar_trajectory_plot1.png)
 
-![lunar_trajectory_plot2.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/lunar_trajectory_plot2.png)
+![lunar_trajectory_plot2.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/lunar_trajectory_plot2.png)
 
-![lunar_trajectory_plot3.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/lunar_trajectory_plot3.png)
+![lunar_trajectory_plot3.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/lunar_trajectory_plot3.png)
 
 ---
 
@@ -474,7 +446,7 @@ Space-Sciences-and-Astrodynamics/
   - Supporting educational tools or software requiring quick access to such mappings.
   - Simplifying conversions between numerical representations and their corresponding names.
 
-![month_planet_names_plot.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/month_planet_names_plot.png)
+![month_planet_names_plot.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/month_planet_names_plot.png)
 
 ---
 
@@ -484,7 +456,7 @@ Space-Sciences-and-Astrodynamics/
   - Simulating orbital trajectories and calculating spacecraft positions and velocities over time.
   - Determining key orbital parameters, including maximum and minimum radii and the corresponding velocities.
 
-![orbit_plot.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/orbit_plot.png)
+![orbit_plot.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/orbit_plot.png)
 
 ---
 
@@ -495,48 +467,7 @@ Space-Sciences-and-Astrodynamics/
   - Supporting astrodynamics and celestial mechanics computations.
   - Providing data for mission planning and planetary observation.
 
-![planet_elements_and_sv_plot.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/planet_elements_and_sv_plot.png)
-
----
-
-#### `q_from_dcm.py`
-
-- The `q_from_dcm` function calculates the quaternion representation of a given direction cosine matrix (DCM). This is essential for:
-  - Converting rotation matrices into quaternions for use in spacecraft attitude dynamics and robotics.
-  - Enabling efficient computation of orientation changes.
-  - Supporting applications in control systems, simulation, and 3D transformations.
-
-![q_from_dcm_plot.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/q_from_dcm_plot.png)
-
----
-
-#### `quat_rotate.py`
-
-- The `quat_rotate` function rotates a vector by a unit quaternion, providing a method for:
-  - Transforming vectors in 3D space using quaternion-based rotation.
-  - Supporting spacecraft attitude simulations and 3D graphics applications.
-  - Simplifying rotational transformations with efficient quaternion mathematics.
-
-#### `quatinv.py` and `quatmultiply.py`
-
-- These Python scripts implement the functionality of MATLAB's built-in `quatinv` and `quatmultiply` functions. They are essential for:
-  - Calculating the inverse of a quaternion with `quatinv`.
-  - Performing quaternion multiplication with `quatmultiply`.
-
-- These scripts replicate MATLAB's behavior, enabling seamless transition for MATLAB users moving to Python environments. They are utilized in functions such as `quat_rotate` for quaternion-based calculations.
-
-![quat_rotate_plot.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/quat_rotate_plot.png)
-
----
-
-#### `ra_and_dec_from_r.py`
-
-- The `ra_and_dec_from_r` function calculates the right ascension and declination from a geocentric equatorial position vector. This function is essential for:
-  - Converting position vectors into angular coordinates for use in celestial mechanics and navigation.
-  - Determining the orientation of an object in Earth's sky from its position in space.
-  - Supporting astrodynamics applications, including satellite tracking and orbital visualization.
-
-![ra_and_dec_from_r_plot.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/ra_and_dec_from_r_plot.png)
+![planet_elements_and_sv_plot.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/planet_elements_and_sv_plot.png)
 
 ---
 
@@ -547,21 +478,9 @@ Space-Sciences-and-Astrodynamics/
   - Visualizing relative trajectories in a co-moving reference frame.
   - Supporting analysis of proximity operations in astrodynamics.
 
-![relative_motion_plot.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/relative_motion_plot.png)
+![relative_motion_plot.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/relative_motion_plot.png)
 
 ---
-
-#### `rk1_4.py`
-
-- The `rk1_4` function implements the Runge-Kutta numerical integration methods (RK1, RK2, RK3, and RK4) to solve systems of first-order ordinary differential equations $\frac{dy}{dt} = f(t, y)$. This function is essential for:
-  - Performing numerical simulations of dynamic systems.
-  - Providing flexibility to choose between integration methods depending on accuracy and computational efficiency.
-  - Supporting the analysis of time-dependent problems in astrodynamics and engineering.
-
-![rk1_4_plot.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/rk1_4_plot.png)
-
----
-
 #### `rkf45.py`
 
 - The `rkf45` function implements the Runge-Kutta-Fehlberg 4(5) method, a numerical integration algorithm with adaptive step size control. It is designed for:
@@ -569,43 +488,9 @@ Space-Sciences-and-Astrodynamics/
   - Applications in astrodynamics, engineering, and physics requiring precise integration over varying time steps.
   - Supporting problems with stringent error tolerance and dynamic step size adjustments.
 
-![rkf45_plot.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/rkf45_plot.png)
+![rkf45_plot.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/rkf45_plot.png)
 
-![rkf45_lunar_plot.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/rkf45_lunar_plot.png)
-
----
-
-#### `rv_from_observe.py`
-
-- The `rv_from_observe` function calculates the geocentric equatorial position and velocity vectors of an object from radar observations, including range, azimuth, elevation angle, and their rates. This function is essential for:
-  - Translating radar observation data into state vectors for orbit determination.
-  - Supporting satellite tracking and orbit prediction applications.
-  - Providing a foundation for converting observational data into orbital elements.
-
-![rv_from_observe_plot.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/rv_from_observe_plot.png)
-
----
-
-#### `rv_from_r0v0.py`
-
-- The `rv_from_r0v0` function computes the state vector (position and velocity) of a spacecraft at a future time, given its initial state vector and the elapsed time. This is fundamental for:
-  - Propagating orbital trajectories using Kepler's equations and universal anomaly methods.
-  - Simulating spacecraft motion in the two-body problem framework.
-  - Supporting orbital dynamics analysis and mission planning tasks.
-
-
-![rv_from_r0v0_plot.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/rv_from_r0v0_plot.png)
-
----
-
-#### `rv_from_r0v0_ta.py`
-
-- The `rv_from_r0v0_ta` function calculates the state vector (position and velocity) of a spacecraft after a specified change in true anomaly, given the initial state vector. This function is essential for:
-  - Propagating orbital trajectories based on changes in true anomaly.
-  - Determining spacecraft position and velocity at specific points in the orbit.
-  - Supporting astrodynamics analysis and mission design tasks.
-
-![rv_from_r0v0_ta_plot.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/rv_from_r0v0_ta_plot.png)
+![rkf45_lunar_plot.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/rkf45_lunar_plot.png)
 
 ---
 
@@ -616,7 +501,7 @@ Space-Sciences-and-Astrodynamics/
   - Simulating formation flying and cooperative satellite missions.
   - Supporting mission planning for docking and station-keeping tasks.
 
-![rva_relative_plot.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/rva_relative_plot.png)
+![rva_relative_plot.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/rva_relative_plot.png)
 
 ---
 
@@ -627,7 +512,7 @@ Space-Sciences-and-Astrodynamics/
   - Essential inputs for spacecraft mission planning and lunar navigation.
   - A simplified, efficient approach suitable for onboard flight software.
 
-![simpsons_lunar_ephemeris_plot1.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/simpsons_lunar_ephemeris_plot1.png)
+![simpsons_lunar_ephemeris_plot1.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/simpsons_lunar_ephemeris_plot1.png)
 
 ---
 
@@ -638,9 +523,9 @@ Space-Sciences-and-Astrodynamics/
   - Supporting mission planning by quantifying perturbations on different orbital regimes (e.g., LEO, HEO, GEO).
   - Providing insights into orbital element variations due to external gravitational effects.
 
-![solar_perturbation_plot1.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/solar_perturbation_plot1.png)
+![solar_perturbation_plot1.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/solar_perturbation_plot1.png)
 
-![solar_perturbation_plot2.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/solar_perturbation_plot2.png)
+![solar_perturbation_plot2.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/solar_perturbation_plot2.png)
 
 ---
 
@@ -651,7 +536,7 @@ Space-Sciences-and-Astrodynamics/
   - Supporting solar radiation pressure calculations and perturbation modeling.
   - Providing accurate inputs for astrodynamics and space mission design.
 
-![solar_position_plot.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/solar_position_plot.png)
+![solar_position_plot.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/solar_position_plot.png)
 
 ---
 
@@ -662,69 +547,20 @@ Space-Sciences-and-Astrodynamics/
   - Supporting mission planning by quantifying non-gravitational perturbations.
   - Analyzing changes in angular momentum, eccentricity, and other orbital parameters over time.
 
-![solar_radiation_pressure_plot.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/solar_radiation_pressure_plot.png)
+![solar_radiation_pressure_plot.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/solar_radiation_pressure_plot.png)
 
-![solar_radiation_pressure_plot2.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/solar_radiation_pressure_plot2.png)
-
----
-
-#### `spinning_top.py`
-
-- The `spinning_top` function numerically integrates Euler's equations of motion for a spinning top. It uses quaternions to track the time evolution of the top's orientation. This implementation is designed for:
-  - Understanding the rotational dynamics of a rigid body under gravity.
-  - Analyzing Euler angles, angular velocities, and the effects of moments of inertia.
-  - Providing insights into the nutation, precession, and spin behavior of spinning tops.
-
-![spinning_top_plot1.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/spinning_top_plot1.png)
-
-![spinning_top_plot2.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/spinning_top_plot2.png)
-
-![spinning_top_plot3.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/spinning_top_plot3.png)
+![solar_radiation_pressure_plot2.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/solar_radiation_pressure_plot2.png)
 
 ---
-
-#### `stumpC.py`
-
-- The `stumpC` function evaluates the Stumpff function $C(z)$, a key mathematical function in orbital mechanics, particularly for solving Kepler's equation using the universal variable formulation. This implementation is designed for:
-  - Efficiently handling cases for positive, negative, and zero values of $z$.
-  - Supporting numerical algorithms in astrodynamics that require Stumpff function computations.
-  - Providing robust and reliable results for diverse orbital scenarios.
-
-![stumpC_plot.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/stumpC_plot.png)
-
----
-
-#### `stumpS.py`
-
-- The `stumpS` function computes the Stumpff function $S(z)$, essential in solving Kepler's equation using the universal variable formulation. It handles different cases of $z$ (positive, negative, and zero) to provide:
-  - Accurate evaluations for orbital mechanics problems.
-  - Support for numerical algorithms in astrodynamics requiring Stumpff function computations.
-  - Reliable results across various orbital scenarios.
-
-![stumpS_plot.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/stumpS_plot.png)
-
----
-
-#### `sv_from_coe.py`
-
-- The `sv_from_coe` function computes the state vector (position and velocity) from classical orbital elements. This is particularly useful in astrodynamics for:
-  - Translating orbital elements like eccentricity, inclination, and true anomaly into precise position and velocity vectors in a geocentric equatorial frame.
-  - Supporting simulations and analyses of orbital mechanics, mission planning, and trajectory design.
-  - Ensuring consistent and accurate transformations between orbital and Cartesian coordinates.
-
-![sv_from_coe_plot.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/sv_from_coe_plot.png)
-
----
-
 #### `threebody.py`
 
 - The `threebody` function provides a graphical simulation of the motion of three celestial bodies interacting under gravitational forces in a two-dimensional plane. It uses:
   - Newton's laws of motion and the gravitational constant to compute positions and velocities over time.
   - Numerical integration (Runge-Kutta in MATLAB and Euler's method in Python) to solve the system of differential equations governing the bodies' motion.
 
-![threebody_plot1.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/threebody_plot1.png)
+![threebody_plot1.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/threebody_plot1.png)
 
-![threebody_plot2.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/threebody_plot2.png)
+![threebody_plot2.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/threebody_plot2.png)
 
 ---
 
@@ -734,11 +570,11 @@ Space-Sciences-and-Astrodynamics/
   - Inputs include initial positions and velocities of the bodies, their masses, and the time interval of the simulation.
   - Outputs provide trajectories, velocities, and the center of mass for the system at discrete time intervals.
 
-![twobody3d_plot1.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/twobody3d_plot1.png)
+![twobody3d_plot1.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/twobody3d_plot1.png)
 
-![twobody3d_plot2.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/twobody3d_plot2.png)
+![twobody3d_plot2.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/twobody3d_plot2.png)
 
-![twobody3d_plo3t.png](https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics/blob/main/plots/twobody3d_plot3.png)
+![twobody3d_plo3t.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/twobody3d_plot3.png)
 
 ---
 
@@ -748,11 +584,5 @@ Space-Sciences-and-Astrodynamics/
 ### Python
 Clone the repository and navigate to the python files directory. Install the required .py packages and run scripts directly.
 
-## Installation
-
-Clone the repository:
-```bash
-git clone https://github.com/Keeby-Astro/Space-Sciences-and-Astrodynamics.git
-```
 
 ---
